@@ -14,6 +14,7 @@ A comprehensive guide and documentation for implementing and customizing the **T
     - [3. Multiple Letters](#3-multiple-letters)
     - [4. Static Envelope](#4-static-envelope)
 5. [Customization Guide](#customization-guide)
+6. [Live Demo]/(#live-demo)
 
 ---
 
@@ -667,3 +668,7 @@ When posting your work on AO3, ensure your work editor is set to **HTML** mode b
 * **Envelope Stamp:** Update the stamp image by changing the `background-image` URL under `#workskin .letter_cover_stamp`.
 * **Animation Speed:** Adjust the `transition: 2s` property across `.trifold_letter`, `.letter_cover`, `.letter_top`, etc., to make the unfolding animation faster or slower.
 * **Scrollable Content:** Each section (`letter_top_text`, `letter_mid_text`, etc.) includes `overflow: auto` and custom scrollbars so lengthy paragraphs remain neat without breaking the container layout.
+
+## Live Demo
+
+[Chapter 3 of You're Lost Little Girl by eeveeey](https://archiveofourown.org/works/90899356/chapters/243564166)
