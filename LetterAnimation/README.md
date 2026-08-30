@@ -14,7 +14,7 @@ A comprehensive guide and documentation for implementing and customizing the **T
     - [3. Multiple Letters](#3-multiple-letters)
     - [4. Static Envelope](#4-static-envelope)
 5. [Customization Guide](#customization-guide)
-6. [Live Demo]/(#live-demo)
+6. [Live Demo](#live-demo)
 
 ---
 
